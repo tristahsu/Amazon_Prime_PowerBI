@@ -27,12 +27,12 @@ To explore the dashboards, you'll need Power BI Desktop. Download it [here](http
 - Include information about data structure, cleaning process, and transformations.
 
 ## Dashboard Projects
-1. **Project 1 - HR Analytics Dashboard:**
-   - Displays HR data, including Attrition count, Job Satisfaction rate, and Job Roles.
+1. **Project 1 **
+   -
    - [Link to Dashboard](#)
 
-2. **Project 2 - Financial Report:**
-   - Provides a summary of company profits.
+2. **Project 2 **
+   - 
    - [Link to Dashboard](#)
 
 
