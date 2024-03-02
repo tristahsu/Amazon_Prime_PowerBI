@@ -20,19 +20,13 @@ To explore the dashboards, you'll need Power BI Desktop. Download it [here](http
 ## Dashboard Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Data Sources
 
 - Include information about data structure, cleaning process, and transformations.
 
-## Dashboard Projects
-1. **Project 1 **
-   -
-   - [Link to Dashboard](#)
 
-2. **Project 2 **
-   - 
-   - [Link to Dashboard](#)
+
+
 
 
