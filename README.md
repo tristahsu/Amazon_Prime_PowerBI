@@ -16,7 +16,7 @@ Amazon Prime data: [https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-
 
 ## Tools
 
--PowerBI
+PowerBI
 
 
 
